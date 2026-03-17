@@ -13,6 +13,7 @@ The [EV Companion app](https://github.com/pakitt/data-analysis-portfolio/tree/ma
 <img width="276" height="528" alt="EVCompanionApp - Charging Costs - Good" src="https://github.com/user-attachments/assets/868ccc35-93eb-49a0-8703-f62c02ce1cdb" />
 </p>
 
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=plastic&logo=Xcode&logoColor=white)  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0)
 ---
 
 ## App features
