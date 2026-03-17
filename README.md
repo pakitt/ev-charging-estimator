@@ -71,7 +71,7 @@ The source code and supporting assets are available here:
 
 **Disclaimer**
 - This app is a prototype and has limited funcionality: multi-currency support and metric system not yet implemented, bugs possible.
-- Tools and code learned through official Apple Developer's Swift and Swift UI documentation, Swift Playgrounds, Youtube videos, [CodeWithChris courses](https://codewithchris.com/), and code examples/ideas using ChatGPT. 
+- Tools and code learned through official Apple Developer's Swift and Swift UI documentation, Swift Playgrounds, Youtube videos, [CodeWithChris courses](https://codewithchris.com/), and code examples/ideas using AI coding tool. 
 
 ---
 
