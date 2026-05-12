@@ -7,7 +7,7 @@ EV owners are often exposed to multiple efficiency metrics (kWh/100 km, km/kWh, 
 
 This project explores how these variables can be combined into a simple, transparent interface that supports everyday cost and efficiency decisions.
 
-The [EV Companion app](https://github.com/pakitt/data-analysis-portfolio/tree/main/ios/EV-Companion) is a working prototype written in [Swift](https://www.swift.org/) and [Swift UI](https://developer.apple.com/swiftui/) using [Xcode](https://developer.apple.com/xcode) that addresses this problem.
+The [EV Companion app](https://github.com/pakitt/data-analysis-portfolio/tree/main/EV-Companion) is a working prototype written in [Swift](https://www.swift.org/) and [Swift UI](https://developer.apple.com/swiftui/) using [Xcode](https://developer.apple.com/xcode) that addresses this problem.
 
 <p align="center">
 <img width="276" height="528" alt="EVCompanionApp - Charging Costs - Good" src="https://github.com/user-attachments/assets/868ccc35-93eb-49a0-8703-f62c02ce1cdb" />
